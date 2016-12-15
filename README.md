@@ -1,5 +1,7 @@
 #Project 4 | MARIGOLD.Life
 
+![alt text](http://i.imgur.com/oaLmO4E.png "MARIGOLD.Life") 
+
 ###MARIGOLD.life description
 The death of a loved one is one of the most difficult experiences anyone can face.  In addition to the emotional aspects of death, there are many logistical and financial pitfalls as well.  When a loved one passes away, many decisions need to be made within hours including what funeral home will be used, what kind of funeral service will be carried out, and how much one will spend.  Many times, due to the emotional state people can get taken advantage of.  MARIGOLD.life provides information to families about their local funeral homes including customer ratings, types of services offered, and cost of services.  By using MARIGOLD.life, customers can save time and money as well as make sound decisions during one of the most difficult times of their lives.  
 
